@@ -1,4 +1,1 @@
-# THIS IS VIVICA'S PORTFOLIO 
-
-
-###### MORE AWESOME STUFF ARE COMING UP...
+[ VIVICA'S PORTFOLIO ](https://chefvivica.github.io/vivicacongma.github.io/)
